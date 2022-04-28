@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "983268936596",
+    "firebase_url": "https://catchup-d934c.firebaseio.com",
+    "project_id": "catchup-d934c",
+    "storage_bucket": "catchup-d934c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:983268936596:android:aa5ffb74231671c7cfdd81",
+        "android_client_info": {
+          "package_name": "ir.beitari.catchup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "983268936596-261o3takhuvc356dcp6cf793f3cgl4ud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.beitari.catchup",
+            "certificate_hash": "d0f8afdb7665d904f88f44d521a5b1c0c5e6e277"
+          }
+        },
+        {
+          "client_id": "983268936596-tu7csfd7vb5qpm3qn70uq4nforkcekk4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ir.beitari.catchup",
+            "certificate_hash": "f5f9ee22599fad5fef0c09705d8562bbd636705d"
+          }
+        },
+        {
+          "client_id": "983268936596-hnfuisidt72dna85tstjk1punenqj4ev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANBe31qiYPabkyLYbynr8VLgTP7pfJDz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "983268936596-hnfuisidt72dna85tstjk1punenqj4ev.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "983268936596-mj4shrr3fa1asi10tu8b7aresr4fg6d8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ir.beitari.catchup"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
